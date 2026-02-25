@@ -63,8 +63,6 @@ This project is licensed under the MIT License.
 
 🌟 Author
 
-Built with focus and intention by Shreya ✨
-Lakshya — because goals deserve clarity.
+Built with focus and intention by Shriparna
+✨Lakshya — because goals deserve clarity.
 
-2️⃣ Install dependencies
-npm install
