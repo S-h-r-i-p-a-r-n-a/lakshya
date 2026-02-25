@@ -42,21 +42,6 @@ Lakshya aims to provide:
 
 ---
 
-## 🗂 Project Structure
-app/
-├── components/
-│ ├── Navbar.tsx
-│ ├── Hero.tsx
-│ ├── AboutSection.tsx
-│ ├── BlogSection.tsx
-│ └── Footer.tsx
-│
-├── page.tsx # Landing page
-├── about/page.tsx # About page
-├── blog/page.tsx # Blog page
-
----
-
 ## 🛠 Tech Stack
 
 - **Next.js (App Router)**
@@ -67,11 +52,19 @@ app/
 
 ---
 
-## ⚙️ Getting Started (Local Setup)
+🤝 Contributing
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/lakshya.git
-cd lakshya
+This is a personal learning and portfolio project.
+Suggestions, ideas, and improvements are welcome.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+🌟 Author
+
+Built with focus and intention by Shreya ✨
+Lakshya — because goals deserve clarity.
+
 2️⃣ Install dependencies
 npm install
